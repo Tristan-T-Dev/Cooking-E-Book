@@ -50,6 +50,6 @@ No Warranty: The software is provided "as-is," without any warranties or guarant
 How to Obtain a Copy
 You can obtain a copy of the Apache License 2.0 at the following link: Apache License 2.0.
 
-## Learning
+## Learnings
 
 From this project I have enhanced my time of finishing a project and thinking in a way of solving problems on more logical and practical ways. It was always challenging as I am still learning in Web Development.
