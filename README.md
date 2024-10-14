@@ -10,14 +10,14 @@ A simple web application for managing your dishes. You can save dishes here with
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Learnings](#Learnings)
 
 ## Demo
 
 ![Cooking Book Demo](https://github.com/Tristan-T-Dev/Cooking-E-Book/blob/main/assets/demo.png?raw=true)
-![Cooking Book Demo]([https://github.com/Tristan-T-Dev/Cooking-E-Book/blob/main/assets/demo.png?raw=true](https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20185911.png))
-![Cooking Book Demo]([[https://github.com/Tristan-T-Dev/Cooking-E-Book/blob/main/assets/demo.png?raw=true](https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20185911.png)](https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20190046.png))
-![Cooking Book Demo]([[https://github.com/Tristan-T-Dev/Cooking-E-Book/blob/main/assets/demo.png?raw=true](https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20185911.png)](https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20190052.png))
+![Cooking Book Demo]((https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20185911.png))
+![Cooking Book Demo]((https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20190046.png))
+![Cooking Book Demo]((https://raw.githubusercontent.com/Tristan-T-Dev/Cooking-E-Book/299121840ae0dda719f2cf99210c7ff92a9d990c/assets/Screenshot%202024-10-14%20190052.png))
 
 
 ## Features
@@ -52,4 +52,6 @@ No Warranty: The software is provided "as-is," without any warranties or guarant
 How to Obtain a Copy
 You can obtain a copy of the Apache License 2.0 at the following link: Apache License 2.0.
 
-Contri
+##Learning
+
+From this project I have enhanced my time of finishing a project and thinking in a way of solving problems on more logical and practical ways. It was always challenging as I am still learning in Web Development.
