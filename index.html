@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cooking Book</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="book">
+        <div class="header">
+            <img src="./assets/1-440ed0fd-1077-4cc1-a25c-336f4c11944e.png" alt="logo">
+            <h1><span>PRESS</span> and <span>TRES</span> Cooking E-Book</h1>
+            <h4>Journey</h4>
+        </div>
+        <div class="content">
+            <div class="head_tag">
+                <h4>Dishes</h4>
+            </div>
+            <ul class="order">
+                <!--<li class="list">
+                    <h2 class="title">Pesto Pasta</h2>
+                    <p><a href="#">Recipes</a> <span> | </span> <a href="#">Procedure</a></p>
+                    <button class="delete_btn">assets/delete.svg</button>
+                </li>-->
+            </ul>
+            <div class="recipe_box">
+                <button type="button" class="back_box"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z"/></svg></button>
+                <h4>Ingredients</h4>
+                <!--<div class="recipe">
+                    <h2>Pesto Pasta</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sit voluptates numquam non, blanditiis perspiciatis beatae et nisi sequi voluptatibus tenetur iusto unde alias? Ullam obcaecati doloribus repudiandae alias quas.</p>
+                </div>-->
+            </div>
+            <div class="procedure_box">
+                <button type="button" class="back_box"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z"/></svg></button>
+                <h4 class="title_box">Procedure</h4>
+                <!--<div class="procedure">
+                    <h2>Pesto Pasta</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sit voluptates numquam non, blanditiis perspiciatis beatae et nisi sequi voluptatibus tenetur iusto unde alias? Ullam obcaecati doloribus repudiandae alias quas.</p>
+                </div>-->
+            </div>
+            <div class="none_box">
+                <h1 class="none">Start Adding your Dishes</h1>
+            </div>
+        </div>
+        <div class="addlist">
+            <div class="header-form">
+                <button type="button" class="back"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z"/></svg></button>
+                <h4>Add to Dishes</h4>
+            </div>
+            <form action="">
+                <input type="text" id="dish_title" placeholder="Dish Name" required>
+                <textarea name="textarea" id="recipe_mess" placeholder="Recipes" required></textarea>
+                <textarea name="textarea" id="procedure_mess" placeholder="Prosedures" required></textarea>
+                <button type="button" class="add" onclick="AddItemList()">Add</button>
+            </form>
+        </div>
+        <div class="footer">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M440-440H200v-80h240v-240h80v240h240v80H520v240h-80v-240Z"/></svg>
+        </div>    
+    </div>
+    <script src="page.js"></script>
+</body>
+</html>
