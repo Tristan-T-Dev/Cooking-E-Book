@@ -14,7 +14,7 @@ A simple web application for managing your dishes. You can save dishes here with
 
 ## Demo
 
-![Cooking Book Demo]()
+![Cooking Book Demo](https://github.com/Tristan-T-Dev/Cooking-E-Book/blob/main/assets/demo.png?raw=true)
 
 ## Features
 - Add, view, and delete recipes easily.
