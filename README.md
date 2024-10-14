@@ -31,3 +31,25 @@ A simple web application for managing your dishes. You can save dishes here with
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cooking-book.git
+
+
+## License
+This project is licensed under the Apache License 2.0.
+
+Summary of the Apache License 2.0
+The Apache License 2.0 allows you to use, modify, and distribute the software freely, with a few important conditions:
+
+Freedom to Use: You can use the software for any purpose, including personal, academic, or commercial use.
+
+Modification: You can modify the software and create derivative works.
+
+Distribution: You can distribute copies of the original software as well as modified versions, provided that you include a copy of the license with it.
+
+Attribution: You must give proper attribution to the original authors of the software.
+
+No Warranty: The software is provided "as-is," without any warranties or guarantees.
+
+How to Obtain a Copy
+You can obtain a copy of the Apache License 2.0 at the following link: Apache License 2.0.
+
+Contri
