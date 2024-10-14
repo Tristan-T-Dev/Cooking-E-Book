@@ -7,8 +7,6 @@ A simple web application for managing your dishes. You can save dishes here with
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Learnings](#Learnings)
 
@@ -52,6 +50,6 @@ No Warranty: The software is provided "as-is," without any warranties or guarant
 How to Obtain a Copy
 You can obtain a copy of the Apache License 2.0 at the following link: Apache License 2.0.
 
-##Learning
+## Learning
 
 From this project I have enhanced my time of finishing a project and thinking in a way of solving problems on more logical and practical ways. It was always challenging as I am still learning in Web Development.
