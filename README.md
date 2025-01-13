@@ -1,5 +1,5 @@
 # Cooking-E-Book
-Work on process (Fetching)
+Work in process (Fetching)
 
 A simple web application for managing your dishes. You can save dishes here with recipes and procedures.
 
